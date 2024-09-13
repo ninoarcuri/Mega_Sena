@@ -1,0 +1,2 @@
+# Megasena
+Projeto da Facudade
